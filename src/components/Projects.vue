@@ -5,7 +5,7 @@ const projects = [
   "LinearTransformation",
   "todo_list",
   "golang_todolist_backend",
-  "kelompok2_TextEditor",
+  "BooksInventory",
 ];
 const repos = ref([]);
 
